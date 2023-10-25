@@ -1,6 +1,6 @@
 # Magic 8 Ball Game
 
-![Alt text](https://aramisthorn.blogspot.com/2017/08/eight-ball-answers-yes-definitely.html)
+![image](https://github.com/Maria-mbugua/Magic-8-ball/assets/98423599/a1be86c0-b139-403b-9991-218609875fae)
 
 ## Description
 
