@@ -1,5 +1,7 @@
 # Magic 8 Ball Game
 
+![Alt text](https://aramisthorn.blogspot.com/2017/08/eight-ball-answers-yes-definitely.html)
+
 ## Description
 
 The Magic 8 Ball Game is a simple Python program that mimics the classic "Magic 8-Ball" toy. Users can ask questions, and the program will provide random responses from a list of 20 predefined answers, including affirmative, non-committal, and negative responses.
