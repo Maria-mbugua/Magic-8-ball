@@ -1,6 +1,7 @@
 # Magic 8 Ball Game
 
 ![image](https://github.com/Maria-mbugua/Magic-8-ball/assets/98423599/a1be86c0-b139-403b-9991-218609875fae)
+
 ![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
