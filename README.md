@@ -14,3 +14,10 @@ The Magic 8 Ball provides 20 possible responses, including:
 i) 10 affirmative responses
 ii) 5 non-committal responses
 iii) 5 negative responses
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Acknowledgements
+The Magic 8 Ball image used in this README is a free image from Google.
+Inspired by the classic Magic 8 Ball toy.
