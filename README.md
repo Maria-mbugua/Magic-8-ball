@@ -22,7 +22,7 @@ The Magic 8 Ball Game is a simple Python program that mimics the classic "Magic 
 ## Run the Python script:
     python magic 8.py
 
-## Follow the on-screen instructions to ask questions and receive responses from the Magic 8 Ball.
+Follow the on-screen instructions to ask questions and receive responses from the Magic 8 Ball.
 
 ## Responses
 The Magic 8 Ball provides 20 possible responses, including:
